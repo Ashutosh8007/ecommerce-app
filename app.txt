@@ -1,2 +1,5 @@
+Welcome to Ecommerce App
 Updated by another developer
-Critcal buf fixed
+Critcal bug fixed
+Payment Module Added
+
